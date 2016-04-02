@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: d6c1e00fe8d091a4bb1d44e253a3dd24
+timeCreated: 1459628870
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MeteorLargeFrag_0
+    21300002: MeteorLargeFrag_1
+    21300004: MeteorLargeFrag_2
+    21300006: MeteorLargeFrag_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: MeteorLargeFrag_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: 26}
+        - {x: -13, y: 26}
+        - {x: -16, y: 21}
+        - {x: -27, y: -14}
+        - {x: -27, y: -26}
+        - {x: -16, y: -26}
+        - {x: -8, y: -24}
+        - {x: 17, y: -17}
+        - {x: 27, y: 9}
+    - name: MeteorLargeFrag_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 97
+        width: 61
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 20}
+        - {x: -30.5, y: -3}
+        - {x: -30.5, y: -20}
+        - {x: 30.5, y: -20}
+        - {x: 30.5, y: -12}
+        - {x: 7.5, y: 20}
+    - name: MeteorLargeFrag_2
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 17
+        width: 59
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 22}
+        - {x: -29.5, y: 14}
+        - {x: -29.5, y: 4}
+        - {x: -5.5, y: -22}
+        - {x: 8.5, y: -22}
+        - {x: 15.5, y: -21}
+        - {x: 29.5, y: -13}
+        - {x: 29.5, y: 10}
+        - {x: 15.5, y: 22}
+    - name: MeteorLargeFrag_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 21
+        width: 62
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 18}
+        - {x: -31, y: 0}
+        - {x: -15, y: -18}
+        - {x: 19, y: -18}
+        - {x: 31, y: 8}
+        - {x: 31, y: 18}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

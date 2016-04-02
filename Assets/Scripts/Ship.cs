@@ -25,10 +25,11 @@ public class Ship : MonoBehaviour
 		}
 	}
 
-    void OnTriggerEnter(Collider other)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        if (gameObject.other.tag )
-        Debug.Log("Hit");
+        if (other.tag == "Meteor" )
+        {
+            Debug.Log("Hit");
+        }
     }
-
 }
